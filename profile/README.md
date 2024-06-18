@@ -1,2 +1,2 @@
 
-<img src="do.jpg" alt="do" width="200"/>
+<img src="do.jpg" alt="do" width="400"/>
